@@ -5,9 +5,11 @@ https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Opt
 
 **running all DLCs together:**
 
-1- you have to copy and paste the DLC12.py in each DLC directory seperetely 
+1- you have to copy and paste the DLC12.py in each DLC directory seperetely.
+
 2- Rename them according to the names of their related DLCs.
-2- Define the path on all those dlc.py files you have in this FullyAutomate.py
+
+3- Define the path on all those dlc.py files you have in this FullyAutomate.py
 
 that's it
 
